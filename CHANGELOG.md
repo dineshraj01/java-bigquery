@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.126.4](https://www.github.com/googleapis/java-bigquery/compare/v1.126.3...v1.126.4) (2021-01-07)
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-bigtable to v1.19.2 ([#1035](https://www.github.com/googleapis/java-bigquery/issues/1035)) ([239975b](https://www.github.com/googleapis/java-bigquery/commit/239975b318e513c93fdf42a2699bb019089459ed))
+* update dependency com.google.cloud:google-cloud-storage to v1.113.8 ([#1046](https://www.github.com/googleapis/java-bigquery/issues/1046)) ([c3e9348](https://www.github.com/googleapis/java-bigquery/commit/c3e934809eddfdf6e191f50acf97e8670a80865b))
+
 ### [1.126.3](https://www.github.com/googleapis/java-bigquery/compare/v1.126.2...v1.126.3) (2020-12-15)
 
 
